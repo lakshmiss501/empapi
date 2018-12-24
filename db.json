@@ -66,5 +66,12 @@
                             }
                        ]
         }
-    ]
+    ],
+        "users" : [
+            {
+                "id" :1,
+                "username":"lakshmi@gmail.com",
+                "password": "lakshmi123"
+            }
+                  ]
 }
